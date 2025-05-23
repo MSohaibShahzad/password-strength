@@ -15,12 +15,6 @@ This is a simple and interactive **Streamlit app** that helps users check the st
 
 ---
 
-## 📸 Screenshot
-
-![Password Strength Meter Screenshot]() 
-
----
-
 ## 🛠 How to Use
 
 1. Type a password in the input field.
