@@ -1,4 +1,3 @@
-# password-strength
 # 🔐 Password Strength Meter
 
 This is a simple and interactive **Streamlit app** that helps users check the strength of their passwords in real-time and generate secure passwords.
